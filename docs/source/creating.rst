@@ -29,7 +29,7 @@ Doing a thing
 -------------
 Some stuffffff that's definitely words
 
-.. admonition:: Note!
+.. note::
 
     This could just be a note!!
 
